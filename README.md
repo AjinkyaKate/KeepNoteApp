@@ -1,3 +1,3 @@
 # KeepNoteApp
 
-### Live Site https://keepnoteapp.netlify.app/
+### Live site: https://keepnoteapp.netlify.app/
